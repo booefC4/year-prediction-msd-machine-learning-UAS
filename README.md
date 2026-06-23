@@ -64,3 +64,7 @@ Buka **http://127.0.0.1:5000** → tab *Experiments* → `year_prediction_dl`.
 - **RMSE/MAE** satuan **tahun** (makin kecil makin bagus). Di MSD asli, RMSE NN yang baik ~**9–10 tahun** (dataset memang sulit).
 - **R²** = proporsi variansi tahun yang dijelaskan model.
 - **Producer effect:** split resmi MSD = 463.715 baris pertama (train) + 51.630 terakhir (test) agar lagu artis sama tidak bocor. Notebook pakai split acak — bisa diganti di Section 3 kalau perlu.
+
+Alif Gunawan Yudiansyah
+1103220221
+TK-46-Gab
